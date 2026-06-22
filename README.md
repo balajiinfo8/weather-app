@@ -4,7 +4,7 @@ A simple weather application that lets users search for a city and view its curr
 
 ## Screenshot
 
-![Weather App Screenshot](images/weather-app.png)
+[Weather App Screenshot](images/weather-app.png)
 
 ## Features
 
